@@ -1,0 +1,11 @@
+.ui.borderless.header.menu {
+  font-family: 'Heebo', sans-serif;
+  font-weight: bolder;
+  color:#a9a9a9;
+  border: none;
+  box-shadow: black;
+}
+
+.ui.hero.grid {
+  background: #d6f1fc;
+}
